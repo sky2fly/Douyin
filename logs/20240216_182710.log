@@ -1,0 +1,23 @@
+2024-02-16 18:27:10,706 [INFO] software started. version: 20230418. gui: False.
+2024-02-16 18:27:10,707 [INFO] platform: Windows-10-10.0.22621-SP0
+2024-02-16 18:27:10,707 [INFO] python version: 3.9.0
+2024-02-16 18:27:10,721 [INFO] reading configs
+2024-02-16 18:27:10,726 [INFO] config debug = true
+2024-02-16 18:27:10,727 [INFO] config check_period = 25
+2024-02-16 18:27:10,727 [INFO] config check_period_random_offset = 5
+2024-02-16 18:27:10,727 [INFO] config important_check_period = 5
+2024-02-16 18:27:10,727 [INFO] config important_check_period_random_offset = 3
+2024-02-16 18:27:10,727 [INFO] config check_threads = 1
+2024-02-16 18:27:10,727 [INFO] config check_wait = 0.5
+2024-02-16 18:27:10,727 [INFO] config ffmpeg_path = 
+2024-02-16 18:27:10,727 [INFO] config auto_transcode = false
+2024-02-16 18:27:10,727 [INFO] config auto_transcode_encoder = copy
+2024-02-16 18:27:10,727 [INFO] config auto_transcode_bps = 3000k
+2024-02-16 18:27:10,727 [INFO] config auto_transcode_delete_origin = false
+2024-02-16 18:27:10,731 [INFO] loaded room: 主播名1(71034333127) auto_record=True record_danmu=True important=False
+2024-02-16 18:27:10,731 [INFO] loaded room: 主播名2(851917085931) auto_record=True record_danmu=True important=False
+2024-02-16 18:27:10,731 [INFO] 获取cookie中...
+2024-02-16 18:27:11,689 [INFO] cookie获取完成
+2024-02-16 18:27:11,946 [DEBUG] failed to load json when finding stream url of 71034333127, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"99682814634","sec_uid":"MS4wLjABAAAAqWysp41xJhRUyUL2resRbyZK-RQxe6-AXbe0KVK8ADs","nickname":"云上南阳","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-private-image_99682814634_2fd8775dcf179c74e07f58dbb663dab73b0d72dd83e3b987f7d64a668720a823.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-private-image_99682814634_2fd8775dcf179c74e07f58dbb663dab73b0d72dd83e3b987f7d64a668720a823.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-private-image_99682814634_2fd8775dcf179c74e07f58dbb663dab73b0d72dd83e3b987f7d64a668720a823.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079232045},"status_code":0}
+2024-02-16 18:27:11,946 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:27:11,948 [DEBUG] 检测开播时返回系统繁忙

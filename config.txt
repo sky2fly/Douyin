@@ -1,0 +1,49 @@
+# debug模式，会输出很多信息，如果没有出bug不建议开启
+debug = true
+
+# 多长时间检测一次开播，单位：秒(整数)
+# 越小越能来得及捕捉开播，但也越容易被封禁，请根据实际录制的数量设定
+check_period = 25
+
+# 检测时间随机偏移
+# 即上述检测时间加上随机的偏移时间，比如检测时间是30，随机偏移是10，则检测间隔是30s~40s
+check_period_random_offset = 5
+
+# 重要主播的检测间隔
+# 由于每个重要主播都使用单独线程检测，不建议添加太多重要主播
+important_check_period = 5
+
+# 重要主播的检测间隔加上随机偏移
+important_check_period_random_offset = 3
+
+# 最大同时检测的线程数
+# 线程越多检测速度越快，但对性能要求也越高，线程数太大容易被封禁
+# 建议1-2就行
+check_threads = 1
+
+# 检测时每个线程每个房间检测的间隔，单位：秒
+# 防止极短时间内过多请求造成的请求过于频繁，不应设太小，至少在 0.2 以上
+check_wait = 0.5
+
+# ffmpeg 的地址，填点(.)为软件根目录，例：D:/software/video/，无需加上 ffmpeg.exe
+# 软件默认不带 ffmpeg.exe，请自行下载
+# 如果配置好了环境变量，即在任何目录下都可以使用 ffmpeg，则可以不填
+ffmpeg_path =
+
+# 自动转码，将 flv 转为 mp4
+auto_transcode = false
+
+# 自动转码的编码器，可以使用：
+# copy 为无损转码，速度非常快，对CPU占用较低，文件体积不变
+# h264_nvenc 为硬件编码，速度较慢，主要是对GPU的占用，只适用于NVIDIA显卡
+# libx264、h264 为软件编码，速度很慢，对CPU占用较高
+# libx265 为软件编码，速度非常慢，同等体积下可以有更好的质量，但无论是转码还是播放对性能的要求都很高，不建议使用
+# 其他 ffmpeg 支持的编码器
+auto_transcode_encoder = copy
+
+# 自动转码的比特率，如果编码器为 copy 则该选项无效，设为 0 为不指定比特率
+auto_transcode_bps = 3000k
+
+# 自动转码后删除原文件
+# 不建议选择，因为转码可能损坏原视频
+auto_transcode_delete_origin = false

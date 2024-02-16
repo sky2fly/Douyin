@@ -1,0 +1,37 @@
+2024-02-16 18:29:49,365 [INFO] software started. version: 20230418. gui: False.
+2024-02-16 18:29:49,365 [INFO] platform: Windows-10-10.0.22621-SP0
+2024-02-16 18:29:49,365 [INFO] python version: 3.9.0
+2024-02-16 18:29:49,381 [INFO] reading configs
+2024-02-16 18:29:49,381 [INFO] config debug = true
+2024-02-16 18:29:49,381 [INFO] config check_period = 25
+2024-02-16 18:29:49,381 [INFO] config check_period_random_offset = 5
+2024-02-16 18:29:49,381 [INFO] config important_check_period = 5
+2024-02-16 18:29:49,381 [INFO] config important_check_period_random_offset = 3
+2024-02-16 18:29:49,381 [INFO] config check_threads = 1
+2024-02-16 18:29:49,381 [INFO] config check_wait = 0.5
+2024-02-16 18:29:49,381 [INFO] config ffmpeg_path = 
+2024-02-16 18:29:49,381 [INFO] config auto_transcode = false
+2024-02-16 18:29:49,381 [INFO] config auto_transcode_encoder = copy
+2024-02-16 18:29:49,381 [INFO] config auto_transcode_bps = 3000k
+2024-02-16 18:29:49,381 [INFO] config auto_transcode_delete_origin = false
+2024-02-16 18:29:49,381 [INFO] loaded room: yoyo(803144265780) auto_record=True record_danmu=True important=False
+2024-02-16 18:29:49,381 [INFO] loaded room: 主播名2(851917085931) auto_record=True record_danmu=True important=False
+2024-02-16 18:29:49,381 [INFO] 获取cookie中...
+2024-02-16 18:29:50,441 [INFO] cookie获取完成
+2024-02-16 18:29:50,755 [INFO] 检测到 yoyo(803144265780) 开始直播，启动录制。
+2024-02-16 18:29:50,756 [INFO] 开始录制 yoyo(803144265780) 的弹幕
+2024-02-16 18:29:51,451 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:29:51,451 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:29:52,054 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:29:52,054 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:29:52,699 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:29:52,699 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:29:53,324 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:29:53,324 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:29:53,851 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:29:53,851 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:29:53,854 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:29:53,857 [INFO] 获取cookie中...
+2024-02-16 18:29:54,881 [INFO] cookie获取完成
+2024-02-16 18:32:01,382 [CRITICAL] catched SIGINT(Ctrl+C) signal
+2024-02-16 18:32:01,541 [INFO] yoyo(803144265780) 弹幕录制结束

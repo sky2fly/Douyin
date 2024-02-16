@@ -1,0 +1,231 @@
+2024-02-16 18:38:22,386 [INFO] software started. version: 20230418. gui: False.
+2024-02-16 18:38:22,386 [INFO] platform: Windows-10-10.0.22621-SP0
+2024-02-16 18:38:22,386 [INFO] python version: 3.9.0
+2024-02-16 18:38:22,402 [INFO] reading configs
+2024-02-16 18:38:22,402 [INFO] config debug = true
+2024-02-16 18:38:22,402 [INFO] config check_period = 25
+2024-02-16 18:38:22,402 [INFO] config check_period_random_offset = 5
+2024-02-16 18:38:22,402 [INFO] config important_check_period = 5
+2024-02-16 18:38:22,402 [INFO] config important_check_period_random_offset = 3
+2024-02-16 18:38:22,402 [INFO] config check_threads = 1
+2024-02-16 18:38:22,402 [INFO] config check_wait = 0.5
+2024-02-16 18:38:22,402 [INFO] config ffmpeg_path = 
+2024-02-16 18:38:22,402 [INFO] config auto_transcode = false
+2024-02-16 18:38:22,402 [INFO] config auto_transcode_encoder = copy
+2024-02-16 18:38:22,402 [INFO] config auto_transcode_bps = 3000k
+2024-02-16 18:38:22,402 [INFO] config auto_transcode_delete_origin = false
+2024-02-16 18:38:22,402 [INFO] loaded room: yoyo(803144265780) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: 懒咩咩耶(530978326444) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: BB88(971779132512) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: 1(514) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: 1(514) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: 1(514) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: 1(514) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: 1(514) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: 1(514) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] loaded room: 主播名2(851917085931) auto_record=True record_danmu=True important=False
+2024-02-16 18:38:22,403 [INFO] 获取cookie中...
+2024-02-16 18:38:23,477 [INFO] cookie获取完成
+2024-02-16 18:38:23,784 [INFO] 检测到 yoyo(803144265780) 开始直播，启动录制。
+2024-02-16 18:38:23,785 [INFO] 开始录制 yoyo(803144265780) 的弹幕
+2024-02-16 18:38:24,303 [INFO] 检测到 懒咩咩耶(530978326444) 开始直播，启动录制。
+2024-02-16 18:38:24,304 [INFO] 开始录制 懒咩咩耶(530978326444) 的弹幕
+2024-02-16 18:38:24,380 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:38:24,380 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:24,908 [INFO] 检测到 BB88(971779132512) 开始直播，启动录制。
+2024-02-16 18:38:24,911 [INFO] 开始录制 BB88(971779132512) 的弹幕
+2024-02-16 18:38:24,993 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:38:24,993 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:24,993 [WARNING] cannot find RENDER_DATA when loading 530978326444
+2024-02-16 18:38:24,993 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:25,266 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079905376},"status_code":0}
+2024-02-16 18:38:25,266 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:25,266 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:25,516 [WARNING] cannot find RENDER_DATA when loading 971779132512
+2024-02-16 18:38:25,517 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:25,517 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:38:25,517 [INFO] 获取cookie中...
+2024-02-16 18:38:25,533 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:38:25,533 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:25,785 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079905893},"status_code":0}
+2024-02-16 18:38:25,785 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:25,786 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:25,828 [WARNING] cannot find RENDER_DATA when loading 530978326444
+2024-02-16 18:38:25,828 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:26,094 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:38:26,094 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:26,274 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079906385},"status_code":0}
+2024-02-16 18:38:26,274 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:26,275 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:26,510 [WARNING] cannot find RENDER_DATA when loading 530978326444
+2024-02-16 18:38:26,510 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:26,567 [INFO] cookie获取完成
+2024-02-16 18:38:26,808 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079906914},"status_code":0}
+2024-02-16 18:38:26,808 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:26,809 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:26,842 [WARNING] cannot find RENDER_DATA when loading 803144265780
+2024-02-16 18:38:26,842 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:27,073 [WARNING] cannot find RENDER_DATA when loading 530978326444
+2024-02-16 18:38:27,073 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:27,199 [WARNING] cannot find RENDER_DATA when loading 971779132512
+2024-02-16 18:38:27,199 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:27,199 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:38:27,199 [INFO] 获取cookie中...
+2024-02-16 18:38:27,290 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079907393},"status_code":0}
+2024-02-16 18:38:27,290 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:27,291 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:27,795 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079907904},"status_code":0}
+2024-02-16 18:38:27,795 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:27,796 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:28,120 [INFO] cookie获取完成
+2024-02-16 18:38:28,522 [WARNING] cannot find RENDER_DATA when loading 530978326444
+2024-02-16 18:38:28,523 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:28,776 [WARNING] cannot find RENDER_DATA when loading 971779132512
+2024-02-16 18:38:28,776 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:29,412 [WARNING] cannot find RENDER_DATA when loading 971779132512
+2024-02-16 18:38:29,412 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:30,020 [WARNING] cannot find RENDER_DATA when loading 971779132512
+2024-02-16 18:38:30,020 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:55,811 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079935916},"status_code":0}
+2024-02-16 18:38:55,811 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:55,811 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:38:55,811 [INFO] 获取cookie中...
+2024-02-16 18:38:56,794 [INFO] cookie获取完成
+2024-02-16 18:38:56,795 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:57,073 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079937179},"status_code":0}
+2024-02-16 18:38:57,073 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:57,075 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:57,614 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079937708},"status_code":0}
+2024-02-16 18:38:57,614 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:57,615 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:57,615 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:38:57,615 [INFO] 获取cookie中...
+2024-02-16 18:38:58,885 [INFO] cookie获取完成
+2024-02-16 18:38:59,138 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079939245},"status_code":0}
+2024-02-16 18:38:59,138 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:59,138 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:59,647 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079939754},"status_code":0}
+2024-02-16 18:38:59,647 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:38:59,648 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:00,163 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079940270},"status_code":0}
+2024-02-16 18:39:00,163 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:00,163 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:39:00,164 [INFO] 获取cookie中...
+2024-02-16 18:39:01,435 [INFO] cookie获取完成
+2024-02-16 18:39:01,437 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:27,812 [INFO] 懒咩咩耶(530978326444) 录制结束
+2024-02-16 18:39:28,198 [INFO] 检测到 懒咩咩耶(530978326444) 未下播，继续录制
+2024-02-16 18:39:29,856 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079969965},"status_code":0}
+2024-02-16 18:39:29,856 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:29,857 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:30,356 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079970468},"status_code":0}
+2024-02-16 18:39:30,356 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:30,357 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:30,882 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079970988},"status_code":0}
+2024-02-16 18:39:30,882 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:30,882 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:39:30,882 [INFO] 获取cookie中...
+2024-02-16 18:39:31,946 [INFO] cookie获取完成
+2024-02-16 18:39:31,948 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:32,241 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079972307},"status_code":0}
+2024-02-16 18:39:32,241 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:32,242 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:32,770 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079972878},"status_code":0}
+2024-02-16 18:39:32,770 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:32,771 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:32,771 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:39:32,771 [INFO] 获取cookie中...
+2024-02-16 18:39:33,767 [INFO] cookie获取完成
+2024-02-16 18:39:34,030 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708079974129},"status_code":0}
+2024-02-16 18:39:34,030 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:34,031 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:39:34,802 [INFO] 懒咩咩耶(530978326444) 录制结束
+2024-02-16 18:39:35,133 [INFO] 检测到 懒咩咩耶(530978326444) 未下播，继续录制
+2024-02-16 18:39:56,282 [INFO] 懒咩咩耶(530978326444) 录制结束
+2024-02-16 18:39:56,623 [INFO] 检测到 懒咩咩耶(530978326444) 未下播，继续录制
+2024-02-16 18:40:03,254 [INFO] 懒咩咩耶(530978326444) 录制结束
+2024-02-16 18:40:03,565 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080003671},"status_code":0}
+2024-02-16 18:40:03,565 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:03,566 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:03,611 [INFO] 检测到 懒咩咩耶(530978326444) 未下播，继续录制
+2024-02-16 18:40:04,063 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080004182},"status_code":0}
+2024-02-16 18:40:04,063 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:04,064 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:04,718 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080004831},"status_code":0}
+2024-02-16 18:40:04,718 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:04,719 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:05,215 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080005302},"status_code":0}
+2024-02-16 18:40:05,215 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:05,215 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:40:05,215 [INFO] 获取cookie中...
+2024-02-16 18:40:06,216 [INFO] cookie获取完成
+2024-02-16 18:40:06,219 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:06,471 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080006586},"status_code":0}
+2024-02-16 18:40:06,472 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:06,474 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:06,985 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080007096},"status_code":0}
+2024-02-16 18:40:06,985 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:06,986 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:06,987 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:40:06,987 [INFO] 获取cookie中...
+2024-02-16 18:40:08,006 [INFO] cookie获取完成
+2024-02-16 18:40:33,526 [INFO] 懒咩咩耶(530978326444) 录制结束
+2024-02-16 18:40:33,910 [INFO] 检测到 懒咩咩耶(530978326444) 未下播，继续录制
+2024-02-16 18:40:36,633 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080036750},"status_code":0}
+2024-02-16 18:40:36,634 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:36,635 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:37,195 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080037307},"status_code":0}
+2024-02-16 18:40:37,195 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:37,197 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:37,662 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080037774},"status_code":0}
+2024-02-16 18:40:37,662 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:37,663 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:40:37,663 [INFO] 获取cookie中...
+2024-02-16 18:40:38,744 [INFO] cookie获取完成
+2024-02-16 18:40:38,747 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:39,048 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080039152},"status_code":0}
+2024-02-16 18:40:39,048 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:39,048 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:39,590 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080039611},"status_code":0}
+2024-02-16 18:40:39,591 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:39,592 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:39,592 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:40:39,592 [INFO] 获取cookie中...
+2024-02-16 18:40:40,538 [INFO] cookie获取完成
+2024-02-16 18:40:40,820 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080040933},"status_code":0}
+2024-02-16 18:40:40,820 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:40:40,822 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:01,705 [INFO] 懒咩咩耶(530978326444) 录制结束
+2024-02-16 18:41:02,162 [INFO] 检测到 懒咩咩耶(530978326444) 未下播，继续录制
+2024-02-16 18:41:09,208 [INFO] 懒咩咩耶(530978326444) 录制结束
+2024-02-16 18:41:09,524 [INFO] 检测到 懒咩咩耶(530978326444) 未下播，继续录制
+2024-02-16 18:41:10,183 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080070294},"status_code":0}
+2024-02-16 18:41:10,183 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:10,185 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:10,698 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080070812},"status_code":0}
+2024-02-16 18:41:10,698 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:10,699 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:11,201 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080071320},"status_code":0}
+2024-02-16 18:41:11,202 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:11,202 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:41:11,202 [INFO] 获取cookie中...
+2024-02-16 18:41:12,113 [INFO] cookie获取完成
+2024-02-16 18:41:12,116 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:12,363 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080072481},"status_code":0}
+2024-02-16 18:41:12,363 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:12,365 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:12,896 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p26.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080073005},"status_code":0}
+2024-02-16 18:41:12,896 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:12,898 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:12,898 [CRITICAL] 多次重试无法访问资源，可能是cookie失效
+2024-02-16 18:41:12,898 [INFO] 获取cookie中...
+2024-02-16 18:41:13,896 [INFO] cookie获取完成
+2024-02-16 18:41:14,129 [DEBUG] failed to load json when finding stream url of 514, using api 1, response: {"data":{"data":[],"enter_room_id":"","user":{"id_str":"80736311015","sec_uid":"MS4wLjABAAAAG74TEGGktInfhhLV02RHcVBAYVfkVQKr13znExfQQvM","nickname":"相臣793","avatar_thumb":{"url_list":["https://p11.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p3.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334","https://p6.douyinpic.com/aweme/100x100/aweme-avatar/37e7fa3f9e7341e2822917289acb6dcd.jpeg?from=3067671334"]},"follow_info":{"follow_status":0,"follow_status_str":"0"}},"qrcode_url":"","enter_mode":0,"room_status":2,"similar_rooms":[],"shark_decision_conf":""},"extra":{"now":1708080074246},"status_code":0}
+2024-02-16 18:41:14,129 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:14,130 [DEBUG] 检测开播时返回系统繁忙
+2024-02-16 18:41:26,840 [INFO] 懒咩咩耶(530978326444) 录制结束
+2024-02-16 18:41:27,116 [INFO] 检测到 懒咩咩耶(530978326444) 未下播，继续录制
+2024-02-16 18:41:34,710 [CRITICAL] catched SIGINT(Ctrl+C) signal
+2024-02-16 18:41:34,982 [INFO] 懒咩咩耶(530978326444) 弹幕录制结束
+2024-02-16 18:41:35,077 [INFO] BB88(971779132512) 弹幕录制结束
+2024-02-16 18:41:35,079 [INFO] yoyo(803144265780) 弹幕录制结束
