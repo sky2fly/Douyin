@@ -31,7 +31,7 @@ check_wait = 0.5
 ffmpeg_path =
 
 # 自动转码，将 flv 转为 mp4
-auto_transcode = false
+auto_transcode = true
 
 # 自动转码的编码器，可以使用：
 # copy 为无损转码，速度非常快，对CPU占用较低，文件体积不变
