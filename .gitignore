@@ -1,6 +1,6 @@
 # Ignore the download folder
 download/
+CLIP/
 G/
 NO/
-CLIP/
 *.log
