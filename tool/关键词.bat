@@ -1,0 +1,2 @@
+python key.py
+pause

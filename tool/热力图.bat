@@ -1,0 +1,2 @@
+python reli.py
+pause
