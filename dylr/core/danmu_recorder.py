@@ -7,7 +7,7 @@ import traceback  # 用于打印异常的堆栈信息
 import websocket  # 用于 WebSocket 连接
 from google.protobuf import json_format  # 用于处理 Google Protobuf 格式的数据
 
-from dylr.core import dy_api, app, record_manager  # 引入其他模块
+from dylr.core import dy_api, app  # 引入其他模块
 from dylr.core.dy_protocol import PushFrame, Response, ChatMessage  # 引入自定义协议相关类
 from dylr.util import logger, cookie_utils  # 引入其他工具类
 
@@ -50,7 +50,6 @@ class DanmuRecorder:
         # 写入文件头部数据
         with open(self.filename, 'w', encoding='UTF-8') as file:
             file.write("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
-                       "<?xml-stylesheet type=\"text/xsl\" href=\"#s\"?>\n"
                        "<i>\n")
         self.ws = websocket.WebSocketApp(
             url=dy_api.get_danmu_ws_url(self.room_id, self.room_real_id),
@@ -107,8 +106,8 @@ class DanmuRecorder:
                 content = data['content']
                 # 写入单条数据
                 with open(self.filename, 'a', encoding='UTF-8') as file:
-                    file.write(f"  <d p=\"{round(second, 2)},1,25,16777215,"
-                               f"{int(now * 1000)},0,1602022773,0\" user=\"{user}\">{content}</d>\n")
+                    time_str = time.strftime('%H:%M:%S', time.gmtime(second))
+                    file.write(f"  <d t=\"{time_str}\" user=\"{user}\">{content}</d>\n")
 
     def _heartbeat(self, ws: websocket.WebSocketApp):
         """
@@ -164,3 +163,4 @@ class DanmuRecorder:
             self.start_time = None
             time.sleep(1)
             self.start()
+
