@@ -22,7 +22,7 @@
     },
     {
         "id": "371537279551",
-        "name": "记得早点睡🫧",
+        "name": "记得早点睡",
         "auto_record": true,
         "record_danmu": true,
         "important": false
@@ -51,14 +51,7 @@
     {
         "id": "589730055815",
         "name": "灵宝大法师",
-        "auto_record": true,
-        "record_danmu": true,
-        "important": false
-    },
-    {
-        "id": "242412481625",
-        "name": "铁臂小菠萝🍍",
-        "auto_record": true,
+        "auto_record": false,
         "record_danmu": true,
         "important": false
     },
@@ -534,6 +527,20 @@
     {
         "id": "473155688979",
         "name": "NaNa酱",
+        "auto_record": true,
+        "record_danmu": true,
+        "important": false
+    },
+    {
+        "id": "156407290776",
+        "name": "不吃小丑鱼",
+        "auto_record": true,
+        "record_danmu": true,
+        "important": false
+    },
+    {
+        "id": "799461515849",
+        "name": "煤气罐",
         "auto_record": true,
         "record_danmu": true,
         "important": false
@@ -1220,6 +1227,41 @@
     {
         "id": "913672882609",
         "name": "娩庭表妹",
+        "auto_record": true,
+        "record_danmu": true,
+        "important": false
+    },
+    {
+        "id": "618714734988",
+        "name": "早霜",
+        "auto_record": true,
+        "record_danmu": true,
+        "important": false
+    },
+    {
+        "id": "883714673910",
+        "name": "小鱼_",
+        "auto_record": true,
+        "record_danmu": true,
+        "important": false
+    },
+    {
+        "id": "85822622716",
+        "name": "照母山款姐",
+        "auto_record": true,
+        "record_danmu": true,
+        "important": false
+    },
+    {
+        "id": "173351112272",
+        "name": "芊雨",
+        "auto_record": true,
+        "record_danmu": true,
+        "important": false
+    },
+    {
+        "id": "176673485578",
+        "name": "冰糖雪梨",
         "auto_record": true,
         "record_danmu": true,
         "important": false

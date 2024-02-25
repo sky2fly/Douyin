@@ -1,6 +1,7 @@
 # Ignore the download folder
 download/
 CLIP/
+dylr/
 G/
 NO/
 *.log
